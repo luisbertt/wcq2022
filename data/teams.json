@@ -22,7 +22,7 @@
     {
         "Group": "Group B",
         "Team": "England",
-        "Flag": "https://flagcdn.com/en.svg"
+        "Flag": "https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg"
     },
     {
         "Group": "Group B",
@@ -37,7 +37,7 @@
     {
         "Group": "Group B",
         "Team": "Wales",
-        "Flag": "https://flagcdn.com/wa.svg"
+        "Flag": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg"
     },
     {
         "Group": "Group C",
