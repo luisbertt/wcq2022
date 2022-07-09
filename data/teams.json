@@ -1,0 +1,162 @@
+[
+    {
+        "Group": "Group A",
+        "Team": "Qatar",
+        "Flag": "https://flagcdn.com/qa.svg"
+    },
+    {
+        "Group": "Group A",
+        "Team": "Ecuador",
+        "Flag": "https://flagcdn.com/ec.svg"
+    },
+    {
+        "Group": "Group A",
+        "Team": "Senegal",
+        "Flag": "https://flagcdn.com/sn.svg"
+    },
+    {
+        "Group": "Group A",
+        "Team": "Netherlands",
+        "Flag": "https://flagcdn.com/nl.svg"
+    },
+    {
+        "Group": "Group B",
+        "Team": "England",
+        "Flag": "https://flagcdn.com/en.svg"
+    },
+    {
+        "Group": "Group B",
+        "Team": "Iran",
+        "Flag": "https://flagcdn.com/ir.svg"
+    },
+    {
+        "Group": "Group B",
+        "Team": "USA",
+        "Flag": "https://flagcdn.com/us.svg"
+    },
+    {
+        "Group": "Group B",
+        "Team": "Wales",
+        "Flag": "https://flagcdn.com/wa.svg"
+    },
+    {
+        "Group": "Group C",
+        "Team": "Argentina",
+        "Flag": "https://flagcdn.com/ar.svg"
+    },
+    {
+        "Group": "Group C",
+        "Team": "Saudi Arabia",
+        "Flag": "https://flagcdn.com/sa.svg"
+    },
+    {
+        "Group": "Group C",
+        "Team": "Mexico",
+        "Flag": "https://flagcdn.com/mx.svg"
+    },
+    {
+        "Group": "Group C",
+        "Team": "Poland",
+        "Flag": "https://flagcdn.com/pl.svg"
+    },
+    {
+        "Group": "Group D",
+        "Team": "France",
+        "Flag": "https://flagcdn.com/fr.svg"
+    },
+    {
+        "Group": "Group D",
+        "Team": "Australia",
+        "Flag": "https://flagcdn.com/au.svg"
+    },
+    {
+        "Group": "Group D",
+        "Team": "Denmark",
+        "Flag": "https://flagcdn.com/dk.svg"
+    },
+    {
+        "Group": "Group D",
+        "Team": "Tunisia",
+        "Flag": "https://flagcdn.com/tn.svg"
+    },
+    {
+        "Group": "Group E",
+        "Team": "Spain",
+        "Flag": "https://flagcdn.com/es.svg"
+    },
+    {
+        "Group": "Group E",
+        "Team": "Costa Rica",
+        "Flag": "https://flagcdn.com/cr.svg"
+    },
+    {
+        "Group": "Group E",
+        "Team": "Germany",
+        "Flag": "https://flagcdn.com/de.svg"
+    },
+    {
+        "Group": "Group E",
+        "Team": "Japan",
+        "Flag": "https://flagcdn.com/jp.svg"
+    },
+    {
+        "Group": "Group F",
+        "Team": "Belgium",
+        "Flag": "https://flagcdn.com/be.svg"
+    },
+    {
+        "Group": "Group F",
+        "Team": "Canada",
+        "Flag": "https://flagcdn.com/ca.svg"
+    },
+    {
+        "Group": "Group F",
+        "Team": "Morocco",
+        "Flag": "https://flagcdn.com/ma.svg"
+    },
+    {
+        "Group": "Group F",
+        "Team": "Croatia",
+        "Flag": "https://flagcdn.com/hr.svg"
+    },
+    {
+        "Group": "Group G",
+        "Team": "Brazil",
+        "Flag": "https://flagcdn.com/br.svg"
+    },
+    {
+        "Group": "Group G",
+        "Team": "Serbia",
+        "Flag": "https://flagcdn.com/sr.svg"
+    },
+    {
+        "Group": "Group G",
+        "Team": "Switzerland",
+        "Flag": "https://flagcdn.com/ch.svg"
+    },
+    {
+        "Group": "Group G",
+        "Team": "Cameroon",
+        "Flag": "https://flagcdn.com/cm.svg"
+    },
+    {
+        "Group": "Group H",
+        "Team": "Portugal",
+        "Flag": "https://flagcdn.com/pt.svg"
+    },
+    {
+        "Group": "Group H",
+        "Team": "Ghana",
+        "Flag": "https://flagcdn.com/gh.svg"
+    },
+    {
+        "Group": "Group H",
+        "Team": "Uruguay",
+        "Flag": "https://flagcdn.com/uy.svg"
+    },
+    {
+        "Group": "Group H",
+        "Team": "Korea Republic",
+        "Flag": "https://flagcdn.com/kr.svg"
+    }
+]
